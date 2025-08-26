@@ -24,7 +24,8 @@ The 2024 Global Index evaluates 30 of the world’s largest F&B manufacturers (r
 
 ### 🟢 `ATNi_Global_Index_2024_dataset_all_audiences_20250314.xlsx`  
 - Overview of assessed companies  
-- Product-level healthiness scores  
+- Product-level healthiness scores
+- Sales-weighted healthiness scores  
 - Definitions and notes (see first sheet)
 
 ### 📘 `ATNi_GI_full_report_022025.pdf`  
