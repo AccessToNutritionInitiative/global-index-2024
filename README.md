@@ -46,7 +46,6 @@ This dataset supports ATNi’s work to promote transparency and accountability i
 ---
 
 ## 🌐 Availability
-
 The full Global Index 2024 materials are also available on ATNi’s website:
 🔗 [Global Access to Nutrition Index 2024](https://accesstonutrition.org/index/global-access-to-nutrition-index/)
 ---
